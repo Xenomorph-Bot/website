@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://xenomorph.krypt0n.co.uk/sitemap.xml

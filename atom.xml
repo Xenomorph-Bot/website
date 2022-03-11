@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xenomorph</title>
+    <link>https://xenomorph.krypt0n.co.uk/</link>
+    
+    <image>
+      <url>https://xenomorph.krypt0n.co.uk/img/logo.png</url>
+      <title>Xenomorph</title>
+      <link>https://xenomorph.krypt0n.co.uk/</link>
+    </image>
+    
+    <atom:link href="https://xenomorph.krypt0n.co.uk/atom.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Xenomorph is your go-to Discord bot when it comes to cryptography, hashing, encoding and more!</description>
+    <pubDate>Fri, 11 Mar 2022 11:16:40 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Version 0.0.1-alpha released</title>
+      <link>https://xenomorph.krypt0n.co.uk/2022/03/11/Version-0-0-1-alpha-released/</link>
+      <guid>https://xenomorph.krypt0n.co.uk/2022/03/11/Version-0-0-1-alpha-released/</guid>
+      <pubDate>Fri, 11 Mar 2022 10:45:47 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;We are happy to announce the release of Xenomorph 0.0.1-alpha!&lt;/p&gt;
+&lt;p&gt;This is a pre-release version of Xenomorph, which is still under</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>We are happy to announce the release of Xenomorph 0.0.1-alpha!</p><p>This is a pre-release version of Xenomorph, which is still under daily development. It contains a few commands, 4 to be precise, but we are working daily on the bot so that it will offer brand new commands that you may have never seen on a bot before :D</p><p>We’ve added some basic commands to showcase what to expect in the future from this bot. Below are the biggest changes for this release, of course we’ve fixed bugs 🐛</p><h3 id="Caesar-Cipher"><a href="#Caesar-Cipher" class="headerlink" title="Caesar Cipher"></a>Caesar Cipher</h3><p>You can encode, decode and even bruteforce a string (in case you forgot the shift used 😉) with the Caesar cipher.</p><p>Here is a basic example of encoding a string:<br><img src="/2022/03/11/Version-0-0-1-alpha-released/encode.png" alt="Encode a string with the Caesar cipher"><br>And here is a basic example of bruteforcing a string:<br><img src="/2022/03/11/Version-0-0-1-alpha-released/bruteforce.png" alt="Bruteforce a string with the Caesar cipher"></p><h3 id="Help"><a href="#Help" class="headerlink" title="Help"></a>Help</h3><p>Just like every other bot on Discord, we have a basic, for now, help command:<br><img src="/2022/03/11/Version-0-0-1-alpha-released/help.png" alt="Help command"></p><h3 id="More"><a href="#More" class="headerlink" title="More"></a>More</h3><p>We are working on more commands, so stay tuned!</p>]]></content:encoded>
+      
+      
+      
+      <category domain="https://xenomorph.krypt0n.co.uk/tags/version/">version</category>
+      
+      <category domain="https://xenomorph.krypt0n.co.uk/tags/0-0-1/">0.0.1</category>
+      
+      <category domain="https://xenomorph.krypt0n.co.uk/tags/new-version/">new version</category>
+      
+      <category domain="https://xenomorph.krypt0n.co.uk/tags/xenomorph-0-0-1/">xenomorph 0.0.1</category>
+      
+      <category domain="https://xenomorph.krypt0n.co.uk/tags/alpha-version/">alpha version</category>
+      
+      <category domain="https://xenomorph.krypt0n.co.uk/tags/alpha/">alpha</category>
+      
+      
+      <comments>https://xenomorph.krypt0n.co.uk/2022/03/11/Version-0-0-1-alpha-released/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
