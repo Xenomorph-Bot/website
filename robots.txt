@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://xenomorph.krypt0n.co.uk/sitemap.xml
+Sitemap: https://xenomorph.krypton.ninja/sitemap.xml

@@ -4,24 +4,62 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Xenomorph</title>
-    <link>https://xenomorph.krypt0n.co.uk/</link>
+    <link>https://xenomorph.krypton.ninja/</link>
     
     <image>
-      <url>https://xenomorph.krypt0n.co.uk/img/logo.png</url>
+      <url>https://xenomorph.krypton.ninja/img/logo.png</url>
       <title>Xenomorph</title>
-      <link>https://xenomorph.krypt0n.co.uk/</link>
+      <link>https://xenomorph.krypton.ninja/</link>
     </image>
     
-    <atom:link href="https://xenomorph.krypt0n.co.uk/atom.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://xenomorph.krypton.ninja/atom.xml" rel="self" type="application/rss+xml"/>
     
     <description>Xenomorph is your go-to Discord bot when it comes to cryptography, hashing, encoding and more!</description>
-    <pubDate>Fri, 11 Mar 2022 11:16:40 GMT</pubDate>
+    <pubDate>Mon, 11 Apr 2022 21:44:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
+      <title>Version 0.0.2-alpha released</title>
+      <link>https://xenomorph.krypton.ninja/2022/04/11/Version-0-0-2-alpha-released/</link>
+      <guid>https://xenomorph.krypton.ninja/2022/04/11/Version-0-0-2-alpha-released/</guid>
+      <pubDate>Mon, 11 Apr 2022 21:42:11 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;This version doesn’t bring massive changes, therefore it is still a minor version change.&lt;/p&gt;
+&lt;p&gt;We’ve added the</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>This version doesn’t bring massive changes, therefore it is still a minor version change.</p><p>We’ve added the following:</p><ul><li>Added a queue system for bruteforce commands. Premium users have priority in the queue.</li><li><code>bruteforce</code> option to <code>md5</code> command.</li><li><code>language</code> option to <code>bruteforce</code> option of <code>caesar</code> and <code>md5</code> commands.</li></ul><p>The next version will come with new encoding&#x2F;encryption algorithms so stay tuned!</p>]]></content:encoded>
+      
+      
+      
+      <category domain="https://xenomorph.krypton.ninja/tags/version/">version</category>
+      
+      <category domain="https://xenomorph.krypton.ninja/tags/new-version/">new version</category>
+      
+      <category domain="https://xenomorph.krypton.ninja/tags/alpha-version/">alpha version</category>
+      
+      <category domain="https://xenomorph.krypton.ninja/tags/alpha/">alpha</category>
+      
+      <category domain="https://xenomorph.krypton.ninja/tags/0-0-2/">0.0.2</category>
+      
+      <category domain="https://xenomorph.krypton.ninja/tags/xenomorph-0-0-2/">xenomorph 0.0.2</category>
+      
+      
+      <comments>https://xenomorph.krypton.ninja/2022/04/11/Version-0-0-2-alpha-released/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Version 0.0.1-alpha released</title>
-      <link>https://xenomorph.krypt0n.co.uk/2022/03/11/Version-0-0-1-alpha-released/</link>
-      <guid>https://xenomorph.krypt0n.co.uk/2022/03/11/Version-0-0-1-alpha-released/</guid>
+      <link>https://xenomorph.krypton.ninja/2022/03/11/Version-0-0-1-alpha-released/</link>
+      <guid>https://xenomorph.krypton.ninja/2022/03/11/Version-0-0-1-alpha-released/</guid>
       <pubDate>Fri, 11 Mar 2022 10:45:47 GMT</pubDate>
       
         
@@ -39,20 +77,20 @@
       
       
       
-      <category domain="https://xenomorph.krypt0n.co.uk/tags/version/">version</category>
+      <category domain="https://xenomorph.krypton.ninja/tags/version/">version</category>
       
-      <category domain="https://xenomorph.krypt0n.co.uk/tags/0-0-1/">0.0.1</category>
+      <category domain="https://xenomorph.krypton.ninja/tags/0-0-1/">0.0.1</category>
       
-      <category domain="https://xenomorph.krypt0n.co.uk/tags/new-version/">new version</category>
+      <category domain="https://xenomorph.krypton.ninja/tags/new-version/">new version</category>
       
-      <category domain="https://xenomorph.krypt0n.co.uk/tags/xenomorph-0-0-1/">xenomorph 0.0.1</category>
+      <category domain="https://xenomorph.krypton.ninja/tags/xenomorph-0-0-1/">xenomorph 0.0.1</category>
       
-      <category domain="https://xenomorph.krypt0n.co.uk/tags/alpha-version/">alpha version</category>
+      <category domain="https://xenomorph.krypton.ninja/tags/alpha-version/">alpha version</category>
       
-      <category domain="https://xenomorph.krypt0n.co.uk/tags/alpha/">alpha</category>
+      <category domain="https://xenomorph.krypton.ninja/tags/alpha/">alpha</category>
       
       
-      <comments>https://xenomorph.krypt0n.co.uk/2022/03/11/Version-0-0-1-alpha-released/#disqus_thread</comments>
+      <comments>https://xenomorph.krypton.ninja/2022/03/11/Version-0-0-1-alpha-released/#disqus_thread</comments>
       
     </item>
     
